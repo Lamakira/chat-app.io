@@ -261,7 +261,7 @@ h2 {
 
 
 
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 375px) {
     .hero-section {
         display: flex;
         flex-direction: column;
